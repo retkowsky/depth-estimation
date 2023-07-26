@@ -2,11 +2,12 @@
 
 
 ## Notebooks
-- Depth estimation:<br>
 <a href="Depth estimation.ipynb">Depth estimation notebook</a>
 
-## Example
-<img src="example.png">
+## Examples
+<img src="test1.png">
+<img src="test2.png">
+<img src="test3.png">
 
 26-July-2023
 
